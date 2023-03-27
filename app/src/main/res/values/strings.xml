@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DriveMe</string>
+    <string name="services">Services</string>
+    <string name="offers">Offers</string>
+</resources>
